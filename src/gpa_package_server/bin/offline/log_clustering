@@ -1,0 +1,94 @@
+Performing clustering...
+Total variance: 0.941838637389
+number of clusters: 5
+Performing kmeans...
+kmeans done. 
+Total running time  387.151777983
+Silhouette Coefficient: 0.220
+Cost: 5123327.40163
+number of clusters: 6
+Performing kmeans...
+kmeans done. 
+Total running time  419.687990904
+Silhouette Coefficient: 0.198
+Cost: 5014702.4958
+number of clusters: 7
+Performing kmeans...
+kmeans done. 
+Total running time  498.07106781
+Silhouette Coefficient: 0.114
+Cost: 4927261.52157
+number of clusters: 8
+Performing kmeans...
+kmeans done. 
+Total running time  496.581207037
+Silhouette Coefficient: 0.113
+Cost: 4850970.67245
+number of clusters: 9
+Performing kmeans...
+kmeans done. 
+Total running time  528.385399818
+Silhouette Coefficient: 0.093
+Cost: 4791323.2055
+number of clusters: 10
+Performing kmeans...
+kmeans done. 
+Total running time  569.498196125
+Silhouette Coefficient: 0.088
+Cost: 4732788.92188
+number of clusters: 11
+Performing kmeans...
+kmeans done. 
+Total running time  613.48972702
+Silhouette Coefficient: 0.075
+Cost: 4686351.07291
+number of clusters: 12
+Performing kmeans...
+kmeans done. 
+Total running time  651.960307121
+Silhouette Coefficient: 0.065
+Cost: 4633556.69628
+number of clusters: 13
+Performing kmeans...
+kmeans done. 
+Total running time  683.10235405
+Silhouette Coefficient: 0.054
+Cost: 4591164.67058
+number of clusters: 14
+Performing kmeans...
+kmeans done. 
+Total running time  716.989709854
+Silhouette Coefficient: 0.042
+Cost: 4556109.21621
+number of clusters: 15
+Performing kmeans...
+kmeans done. 
+Total running time  822.147480965
+Silhouette Coefficient: 0.038
+Cost: 4524076.76273
+number of clusters: 16
+Performing kmeans...
+kmeans done. 
+Total running time  792.355577946
+Silhouette Coefficient: 0.039
+Cost: 4488605.18207
+number of clusters: 17
+Performing kmeans...
+kmeans done. 
+Total running time  904.775051117
+Silhouette Coefficient: 0.037
+Cost: 4457387.95975
+number of clusters: 18
+Performing kmeans...
+kmeans done. 
+Total running time  869.776664019
+Silhouette Coefficient: 0.036
+Cost: 4433512.52277
+number of clusters: 19
+Performing kmeans...
+kmeans done. 
+Total running time  994.467386007
+Silhouette Coefficient: 0.040
+Cost: 4408222.9643
+number of clusters: 20
+Performing kmeans...
